@@ -14,7 +14,7 @@ import Pnf from './common/Pnf'
 import PreLoader from './common/PreLoader'
 import AdminDashboard from './admin/pages/admindashboard'
 import AdminResources from './admin/pages/AdminResources'
-import AdminSettings from './admin/pages/adminsettings'
+import AdminSettings from './admin/pages/AdminSettings'
 import { ToastContainer } from 'react-toastify';
 import Paymentsuccess from './User/pages/Paymentsuccess'
 import PaymentError from './User/pages/PaymentError'
