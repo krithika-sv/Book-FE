@@ -13,7 +13,7 @@ import ViewBook from './User/pages/ViewBook'
 import Pnf from './common/Pnf'
 import PreLoader from './common/PreLoader'
 import AdminDashboard from './admin/pages/admindashboard'
-import AdminResources from './admin/pages/adminresources'
+import AdminResources from './admin/pages/AdminResources'
 import AdminSettings from './admin/pages/adminsettings'
 import { ToastContainer } from 'react-toastify';
 import Paymentsuccess from './User/pages/Paymentsuccess'
