@@ -12,7 +12,7 @@ import Profile from './User/pages/Profile'
 import ViewBook from './User/pages/ViewBook'
 import Pnf from './common/Pnf'
 import PreLoader from './common/PreLoader'
-import AdminDashboard from './admin/pages/admindashboard'
+import AdminDashboard from './admin/pages/AdminDashboard'
 import AdminResources from './admin/pages/AdminResources'
 import AdminSettings from './admin/pages/AdminSettings'
 import { ToastContainer } from 'react-toastify';
