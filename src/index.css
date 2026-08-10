@@ -1,0 +1,11 @@
+@import "tailwindcss";
+
+* {
+    font-family: "Montserrat", sans-serif;
+}
+
+input::placeholder {
+    color: #9ca3af;
+    padding: 5px;
+    /* Tailwind gray-400 */
+}
