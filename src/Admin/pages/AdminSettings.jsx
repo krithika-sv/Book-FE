@@ -1,6 +1,6 @@
 import React, { useEffect, useState } from 'react'
-import AdminHeader from '../Components/AdminHeader'
-import AdminSidebar from '../Components/AdminSidebar'
+import AdminHeader from '../components/AdminHeader'
+import AdminSidebar from '../components/AdminSideBar'
 import { FaPen } from 'react-icons/fa'
 import axiosInstance from '../../service/axiosInstance'
 import { updateAdminProfileAPI } from '../../service/allAPI'

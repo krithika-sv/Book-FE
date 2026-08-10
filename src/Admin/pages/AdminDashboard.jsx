@@ -1,6 +1,6 @@
 import React, { useEffect, useState } from 'react'
-import AdminHeader from '../Components/AdminHeader'
-import AdminSidebar from '../Components/AdminSidebar'
+import AdminHeader from '../components/AdminHeader'
+import AdminSidebar from '../components/AdminSideBar'
 import { FaPeopleGroup } from 'react-icons/fa6'
 import { FaBook, FaUsers } from 'react-icons/fa'
 import { getCountAPI } from '../../service/allAPI'

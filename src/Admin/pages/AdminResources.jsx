@@ -1,8 +1,8 @@
 
 
 import React, { useEffect, useState } from 'react'
-import AdminHeader from '../Components/AdminHeader'
-import AdminSidebar from '../Components/AdminSideBar'
+import AdminHeader from '../components/AdminHeader'
+import AdminSidebar from '../components/AdminSideBar'
 import { approveBookAPI, getAdminBooksAPI, getAllUsers } from '../../service/allAPI'
 import { toast } from 'react-toastify'
 
